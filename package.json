@@ -132,5 +132,6 @@
         "message": "chore(release): ${nextRelease.version} [skip ci]nn${nextRelease.notes}"
       }
     ]
-  }
+  },
+  "version": "0.0.1"
 }
